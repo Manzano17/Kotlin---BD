@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">App2</string>
     <string name="btn_siguiente">Siguiente</string>
+    <string name="op_1">Canciones</string>
+    <string name="op_2">Peliculas</string>
+
+    <string-array name="generosp">
+        <item>Accion</item>
+        <item>Terror</item>
+        <item>Comedia</item>
+        <item>Romance</item>
+        <item>Ciencia Ficción</item>
+    </string-array>
+
 </resources>

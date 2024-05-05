@@ -13,6 +13,21 @@
         android:theme="@style/Theme.App2"
         tools:targetApi="31">
         <activity
+            android:name=".Activity_list_peliculas"
+            android:exported="false" />
+        <activity
+            android:name=".MostrarCanciones"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_list_canciones"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_Peliculas"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_Canciones"
+            android:exported="false" />
+        <activity
             android:name=".Actividad2"
             android:exported="false" />
         <activity
