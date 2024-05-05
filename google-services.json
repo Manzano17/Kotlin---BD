@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "436898430658",
+    "firebase_url": "https://movil1-bbf50-default-rtdb.firebaseio.com",
+    "project_id": "movil1-bbf50",
+    "storage_bucket": "movil1-bbf50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436898430658:android:417f243783562bbd4ac55b",
+        "android_client_info": {
+          "package_name": "com.example.app2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZulWQNmtpO92YOYdRGo_251m-GDCKBzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
